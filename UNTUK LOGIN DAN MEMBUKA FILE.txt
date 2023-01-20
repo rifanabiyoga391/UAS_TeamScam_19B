@@ -1,0 +1,13 @@
+JIKA TIDAK ADA TAMPILAN NYA
+
+buka application -> config -> config.php -> ganti seperti dibawah
+$config['base_url'] = 'http://localhost/UAS_TeamScam_19B-master/' 
+(nama setelah localhost menyesuaikan nama file yang telah di download)
+
+untuk login user :
+username : user
+pasword : 123
+
+untuk login admin :
+username : admin
+password : 123
